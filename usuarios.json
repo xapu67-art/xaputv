@@ -1,0 +1,10 @@
+{
+  "sergio": {
+    "password": "1234",
+    "path": "usuarios/sergio/tv001.m3u"
+  },
+  "juanjose": {
+    "password": "abcd",
+    "path": "usuarios/juanjose/tv002.m3u"
+  }
+}
